@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">SharedPreference</string>
+    <string name="btn_save">Lưu</string>
+    <string name="btn_clear">Xóa</string>
+    <string name="btn_show">Hiển thị</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="show_username">Hiển thị Username</string>
+    <string name="show_password">Hiển thị Password</string>
+</resources>
